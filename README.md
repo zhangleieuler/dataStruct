@@ -1,2 +1,2 @@
 # dataStruct
-declare and define dataStruct such as list BiTree et.c 
+declare and define dataStruct such as list BiTree etc .
